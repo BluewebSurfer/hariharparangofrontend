@@ -406,7 +406,7 @@ cursor: pointer;
 }
 #supporter
 {
-    background: url("/image/brick.jpg");
+    background: url("image/brick.jpg");
     position: relative;
     background-size: 100%;
     margin: 11px auto;
@@ -420,7 +420,7 @@ cursor: pointer;
 
 }
 .sup-box1{
-    background: url("/image/paper.png") ;
+    background: url("image/paper.png") ;
     padding: 17px;
     margin: 11px;
     margin-bottom: 9px;
@@ -437,7 +437,7 @@ cursor: pointer;
     padding: 5px auto;
 }
 .sup-box2{
-    background: url("/image/paper.png") ;
+    background: url("image/paper.png") ;
     padding: 17px;
     margin: 11px;
     margin-bottom: 9px;
@@ -448,7 +448,7 @@ cursor: pointer;
 }
 .sup-box3{
     
-    background: url("/image/paper.png");
+    background: url("image/paper.png");
     padding: 17px;
     margin: 11px;
     margin-bottom: 9px;
@@ -510,7 +510,7 @@ cursor: pointer;
 /* footerbar section */
 .footer-bar{
     /* display: flex; */
-    background: url("/image/nav\ photo.jpg") ;
+    background: url("image/nav\ photo.jpg") ;
     background-color: #748343dc;
 
     flex-direction: column;
@@ -1158,7 +1158,7 @@ box-shadow: 0 0 12px black;
 }
 #supporter
 {
-    background: url("/image/brick.jpg");
+    background: url("image/brick.jpg");
     position: relative;
     background-size: 100%;
     margin: 11px auto;
@@ -1174,7 +1174,7 @@ box-shadow: 0 0 12px black;
 
 }
 .sup-box1{
-    background: url("/image/paper.png") ;
+    background: url("image/paper.png") ;
     padding: 17px;
     margin: 11px;
     margin-bottom: 9px;
@@ -1195,7 +1195,7 @@ box-shadow: 0 0 12px black;
     padding: 5px auto;
 }
 .sup-box2{
-    background: url("/image/paper.png") ;
+    background: url("image/paper.png") ;
     padding: 17px;
     margin: 11px;
     margin-bottom: 9px;
@@ -1209,7 +1209,7 @@ box-shadow: 0 0 12px black;
 }
 .sup-box3{
     
-    background: url("/image/paper.png");
+    background: url("image/paper.png");
     padding: 17px;
     margin: 11px;
     margin-bottom: 9px;
