@@ -80,7 +80,7 @@ margin: 12px;
 padding: 9px;
 border: 2px solid rgb(57, 82, 25);
 height: 400px;
-background: url("/image/c.jpeg");
+background: url("image/c.jpeg");
 background-size:cover;
 opacity: 0.9;
 }
